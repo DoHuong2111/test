@@ -1,0 +1,38 @@
+#container{
+
+	width: 900px;
+	margin: 20px auto;
+	height: 500px;
+}
+.thongtin{
+	width: 200px;
+	float: left;
+}
+.giatri{
+	width: 400px;
+	float: left;
+}
+.thongbao{
+	width: 200px;
+	float: left;
+	color: red;
+}
+.khung{
+	width: 800px;
+	margin: 0px auto;
+	height: 30px;
+}
+#hoten,#taikhoan,#thudientu{
+	width: 370px;
+}
+#matkhau,#xacnhanmk{
+	width: 250px;
+}
+p{
+	margin: 0px;
+}
+#footer{
+	width: 800px;
+	float: right;
+	margin: 0px auto;
+}
